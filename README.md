@@ -87,7 +87,7 @@ automatic-license-plate-recognition/
 │
 ├── notebooks/
 │   └── license_plate_recognition.ipynb
-│
+│── photos/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
